@@ -1,0 +1,2 @@
+The password generator at it's current state have a graphic interface that allows you to customize a password that includes the lenght of the password, if you want to have characteres or special characteres.
+The graphic interface was made with a library called tkinter which allow us to create kind of a front-end inside python so we don't haev to use another language to complement the code.
